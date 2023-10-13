@@ -5,7 +5,6 @@
 PRODUCT_SOONG_NAMESPACES += \
     vendor/samsung/gtaxlwifi
 
-
 PRODUCT_PACKAGES += \
     gps.default \
     libwrappergps \
